@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "http-server": "^14.1.1",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "@vue/cli-service": "^5.0.8"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.4.0",
