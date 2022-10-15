@@ -9,9 +9,10 @@
     "start": "vue-cli-service serve --mode production"
   },
   "dependencies": {
+    "@vue/cli-service": "^5.0.0",
     "http-server": "^14.1.1",
-    "vue": "^3.2.13",
-    "@vue/cli-service": "^5.0.0"
+    "serve": "^14.0.1",
+    "vue": "^3.2.13"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.4.0",
