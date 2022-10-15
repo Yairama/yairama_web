@@ -9,6 +9,7 @@
     "start": "vue-cli-service serve --mode production"
   },
   "dependencies": {
+    "@babylonjs/core": "^5.28.0",
     "@vue/cli-service": "^5.0.0",
     "http-server": "^14.1.1",
     "serve": "^14.0.1",
