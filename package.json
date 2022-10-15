@@ -9,6 +9,7 @@
     "start": "vue-cli-service serve --mode production"
   },
   "dependencies": {
+    "http-server": "^14.1.1",
     "vue": "^3.2.13"
   },
   "devDependencies": {
