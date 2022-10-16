@@ -1,7 +1,8 @@
 <template>
 <div>
 
-  <h3>Babylon try</h3>
+  <h3>La bebecita bebelin UwU</h3>
+  <h1>Muevete con WASDEQ y mueve la camara con click del mouse :3</h1>
   <canvas id="MainCanvas"></canvas>
 
 </div>
