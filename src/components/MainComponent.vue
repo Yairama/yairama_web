@@ -2,7 +2,7 @@
 <div>
 
   <h3>La bebecita bebelin UwU</h3>
-  <h1>Muevete con WASDEQ y mueve la camara con click del mouse :3</h1>
+  <h1>Muevete con WASD, sube y baja con Ctrl o SPACE y mueve la camara con click del mouse :3</h1>
   <canvas id="MainCanvas"></canvas>
 
 </div>
